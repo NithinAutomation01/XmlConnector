@@ -1,0 +1,5 @@
+Student  101 Naman Kumar Math 83
+Student  102 Kapil Kumar Chemistry 60
+Student  103 Harsh Singh English 70
+Student  104 Jitesh Singh Physics 76
+Student  107 Nithin Devarajan Physics 92
